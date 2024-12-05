@@ -1,2 +1,2 @@
-# lacbirdng.github.io
-The Lacbird Nguyen static website
+# Lacbird Nguyen Website
+Hi, I'm Lacbird Nguyen
